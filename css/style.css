@@ -149,6 +149,12 @@ img.icon {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  text-align: right;
+  vertical-align: bottom;
+}
+
+.split-img > .copyright{
+  padding: 20px;
 }
 
 .split-title {
